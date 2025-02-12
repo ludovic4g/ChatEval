@@ -1,5 +1,4 @@
-**ChatEval: Quanto gli LLM possono avvicinarsi ai giudizi umani nella text evaluation?
-**
+**ChatEval: Quanto gli LLM possono avvicinarsi ai giudizi umani nella text evaluation?**
 ## 📌 Modifiche e Contesto Accademico
 
 Questa versione di **ChatEval** è stata modificata nell'ambito per il progetto del corso di Intelligenza Artificiale 2024/2025 con l'obiettivo di valutare l'affidabilità degli LLM nella valutazione testuale e il loro allineamento con i giudizi umani.
