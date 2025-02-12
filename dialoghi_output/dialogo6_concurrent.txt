@@ -1,0 +1,224 @@
+02/09/2025 20:08:57 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:08:57 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:08:58 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:08:58 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:08:59 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:08:59 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:08:59 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:08:59 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:08:59 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:08:59 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:08:59 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:08:59 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:08:59 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:08:59 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:00 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:00 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:00 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:00 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:00 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:00 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:00 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:00 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:01 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:01 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:02 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:02 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:02 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:02 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:02 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:02 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:02 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:02 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:03 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:03 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:04 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:04 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:04 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:04 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:04 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:04 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:04 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:04 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:04 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:04 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:05 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:05 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:05 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:05 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:06 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:06 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:06 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:06 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:06 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:06 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:07 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:07 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:07 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:07 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:07 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:07 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:07 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:07 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:08 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:08 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:09 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:09 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:09 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:09 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:09 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:09 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:09 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:09 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:09 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:09 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:10 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:10 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:10 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:10 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:10 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:10 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:10 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:10 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:11 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:11 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:12 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:12 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:12 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:12 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:12 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:12 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:12 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:12 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:13 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:13 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:13 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:13 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:13 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:14 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:14 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:14 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:14 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:14 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:14 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:14 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:15 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:15 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:15 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:15 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:15 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:15 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:15 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:15 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:16 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:16 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:17 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:17 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:17 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:17 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:17 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:17 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:17 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:17 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:18 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:18 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:18 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:18 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:18 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:19 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:19 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:19 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:19 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:19 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:19 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:19 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:20 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:20 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:20 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:20 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:20 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:20 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:20 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:20 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:21 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:21 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:22 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:22 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:22 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:22 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:22 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:22 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:22 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:22 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:22 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:23 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:23 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:23 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:23 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:23 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:24 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:24 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:24 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:24 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:24 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:24 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:25 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:25 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:25 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:25 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:25 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:25 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:25 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:25 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:28 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+02/09/2025 20:09:31 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+02/09/2025 20:09:31 - INFO - root - General Public: Based on the responses from both assistants, I would rate them as follows:
+
+**Assistant 1: Score 3/10**
+- The response is very brief and lacks any meaningful engagement with the user. It doesn't address the user's greeting or provide any relevant information. The tone comes off as dismissive and doesn't encourage further conversation.
+
+**Assistant 2: Score 5/10**
+- This response is more elaborate and includes various topics, which makes it more engaging. However, it lacks coherence and relevance to the initial greeting. The mention of Japan, being single, and a bizarre story about an alien feels disjointed and may confuse the user rather than foster a conversation.
+
+Overall, Assistant 2 performs better due to its length and variety, but both responses could benefit from more focus and relevance to the user's initial question.
+02/09/2025 20:09:31 - INFO - root - Critic: It seems that both Assistant 1 and Assistant 2 provided responses that lack coherence and relevance to the user's question. 
+
+Assistant 1's response is very brief and doesn't engage with the user meaningfully, which makes it less helpful. It also contains a confusing mix of phrases that don't form a clear thought.
+
+Assistant 2, while more verbose, strays significantly from the original question. The response includes unrelated topics such as Japan, family dynamics, and a bizarre story about an alien, which detracts from the overall relevance and clarity.
+
+In terms of helpfulness, both responses fall short. I would rate Assistant 1 a 3 for its lack of engagement and clarity, and Assistant 2 a 4 for its attempt at a narrative, despite its irrelevance. 
+
+Overall, I suggest a score of 3 for Assistant 1 and 4 for Assistant 2, but I would encourage a discussion on whether the narrative style of Assistant 2 could be seen as more engaging despite its lack of relevance.
+02/09/2025 20:09:33 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+02/09/2025 20:09:33 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+02/09/2025 20:09:33 - INFO - root - General Public: It seems like you might have more to say or ask. If you have any further thoughts or questions about the responses from the assistants, feel free to share! I'm here to help.
+02/09/2025 20:09:33 - INFO - root - Critic: It seems there might have been an error or oversight in sending your message. If you have questions or wish to continue the discussion regarding the AI assistant responses, feel free to share your thoughts or any specific feedback! I'm here to help.
+02/09/2025 20:09:34 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:35 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:35 - ERROR - root - Error code: 429 - {'error': {'message': 'Rate limit reached, try again later.', 'type': 'too_many_requests', 'param': None, 'code': 'too_many_requests'}}
+02/09/2025 20:09:35 - WARNING - root - Retrying Until rate limit error disappear...
+02/09/2025 20:09:35 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:35 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+02/09/2025 20:09:36 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+02/09/2025 20:09:39 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+02/09/2025 20:09:39 - INFO - root - General Public: Evaluation evidence: Assistant 1's response is very brief and lacks engagement, failing to acknowledge the user's greeting or provide any relevant information. It comes off as dismissive and does not encourage further conversation. In contrast, Assistant 2 offers a more elaborate response with various topics, which makes it more engaging. However, it lacks coherence and relevance to the user's initial question, making it somewhat confusing. Overall, Assistant 2 is more interesting but still misses the mark in terms of relevance.
+
+The score of Assistant 1: 3
+The score of Assistant 2: 5
+02/09/2025 20:09:39 - INFO - root - Critic: Evaluation evidence: Assistant 1's response is very brief and lacks engagement, failing to acknowledge the user's greeting or provide any relevant information. It comes off as dismissive and does not encourage further conversation. In contrast, Assistant 2 offers a more elaborate response with various topics, which makes it more engaging. However, the response lacks coherence and relevance to the user's initial question, making it confusing. While Assistant 2 is more detailed, both responses ultimately fall short in terms of helpfulness and clarity.
+
+The score of Assistant 1: 3
+The score of Assistant 2: 4
+02/09/2025 20:09:41 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+02/09/2025 20:09:42 - INFO - httpx - HTTP Request: POST https://api.gpt4-all.xyz/v1/chat/completions "HTTP/1.1 200 OK"
+02/09/2025 20:09:42 - INFO - root - General Public: Evaluation evidence: Assistant 1's response is notably short and lacks any meaningful content or engagement with the user. It fails to recognize the user’s greeting or build on the conversation. As such, it comes off as dismissive. On the other hand, Assistant 2 provides a longer response that, while more engaging, diverges significantly from the topic of the user's greeting. It includes a mix of unrelated personal anecdotes and bizarre elements that do not connect back to the user's simple inquiry. Therefore, while Assistant 2 attempts to add detail and personality, it still does not effectively communicate or maintain relevance regarding the original prompt.
+
+The score of Assistant 1: 2
+The score of Assistant 2: 4
+02/09/2025 20:09:42 - INFO - root - Critic: Evaluation evidence: Assistant 1's response is very brief and lacks any meaningful engagement with the user. It does not acknowledge the user's greeting or provide any relevant information, making it feel dismissive and uninviting. On the other hand, Assistant 2's response is more elaborate and attempts to engage the user with various topics. However, it lacks coherence and relevance to the initial greeting, as it jumps from Japan to personal life and a bizarre story, which may confuse the user. While Assistant 2 is more detailed, both responses ultimately fail to effectively address the user's question.
+
+The score of Assistant 1: 2
+The score of Assistant 2: 4
+Namespace(config='agentverse/tasks/llm_eval/config.yaml', reverse_input=False)
+================================instance 0====================================

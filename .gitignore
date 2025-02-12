@@ -179,3 +179,7 @@ scripts
 
 *.jsonl
 llm_eval_azure.py
+
+
+# MODIFICA PER PROGETTO DI INTELLIGENZA ARTIFICIALE 2024/2025
+chatevalenv/

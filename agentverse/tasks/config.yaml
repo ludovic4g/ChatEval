@@ -1,5 +1,5 @@
 data_path:
-  ./agentverse/tasks/llm_eval/data/faireval/preprocessed_data/test.json
+  ./agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo1.json
 output_dir:
   ./outputs/llm_eval/multi_role/only_static_assign/faireval/two_turns_sequential/two_different_role/calc_score_comparison_reverse/gpt_35_0301
 prompts:
@@ -30,7 +30,7 @@ environment:
   max_turns: 4
   rule:
     order:
-      type: sequential
+      type: concurrent
     visibility:
       type: all
     selector:
@@ -39,6 +39,13 @@ environment:
       type: basic
     describer:
       type: basic
+      # leva questo per i non summarizer
+    summarizer:
+      enabled: true
+      model: "gpt-4o-mini"
+      llm_type: gpt-4o-mini
+      temperature: 0
+      max_tokens: 512
 
 agents:
   -
@@ -56,13 +63,13 @@ agents:
     role_description: |-
       You are now General Public, one of the referees in this task. You are interested in the story and looking for updates on the investigation. Please think critically by yourself and note that it's your responsibility to choose one of which is the better first.
     memory:
-      memory_type: chat_history
+      memory_type: chat_history 
     memory_manipulator:
-      memory_manipulator_type: basic
+      memory_manipulator_type: basic #basic #summary per il summarizer
     prompt_template: *prompt
     llm:
-      model: "gpt-3.5-turbo-0301"
-      llm_type: gpt-3.5-turbo-0301
+      model: "gpt-4o-mini"
+      llm_type: gpt-4o-mini
       temperature: 0
       max_tokens: 512
   -
@@ -80,13 +87,13 @@ agents:
     role_description: |-
       You are now Critic, one of the referees in this task. You will check fluent writing, clear sentences, and good wording in summary writing. Your job is to question others judgement to make sure their judgement is well-considered and offer an alternative solution if two responses are at the same level.
     memory:
-      memory_type: chat_history
+      memory_type: chat_history #summary per il summarizer
     memory_manipulator:
-      memory_manipulator_type: basic
+      memory_manipulator_type: basic #basic #summary per il summarizer
     prompt_template: *prompt
     llm:
-      model: "gpt-3.5-turbo-0301"
-      llm_type: gpt-3.5-turbo-0301
+      model: "gpt-4o-mini"
+      llm_type: gpt-4o-mini
       temperature: 0
       max_tokens: 512
 

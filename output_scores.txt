@@ -1,0 +1,44 @@
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo1.json	Strategia: sequential
+ChatEval Score: 5.25	Eval Score: 4
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo2.json	Strategia: sequential
+ChatEval Score: 6.0	Eval Score: 4
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo3.json	Strategia: sequential
+ChatEval Score: 4.0	Eval Score: 4
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo4.json	Strategia: sequential
+ChatEval Score: 4.5	Eval Score: 3
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo5.json	Strategia: sequential
+ChatEval Score: 5.25	Eval Score: 4
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo6.json	Strategia: sequential
+ChatEval Score: 3.5	Eval Score: 2
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo7.json	Strategia: sequential
+ChatEval Score: 5.5	Eval Score: 3
+
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo1.json	Strategia: concurrent
+ChatEval Score: 4.75	Eval Score: 4
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo2.json	Strategia: concurrent
+ChatEval Score: 6.5	Eval Score: 4
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo3.json	Strategia: concurrent
+ChatEval Score: 3.75	Eval Score: 4
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo4.json	Strategia: concurrent
+ChatEval Score: 4	Eval Score: 3
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo5.json	Strategia: concurrent
+ChatEval Score: 4.5	Eval Score: 4
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo6.json	Strategia: concurrent
+ChatEval Score: 3.0	Eval Score: 2
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo7.json	Strategia: concurrent
+ChatEval Score: 5.5	Eval Score: 3
+
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo1.json	Strategia: summarizer
+ChatEval Score: 4.5	Eval Score: 4
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo2.json	Strategia: summarizer
+ChatEval Score: 6.5	Eval Score: 4
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo3.json	Strategia: summarizer
+ChatEval Score: 5	Eval Score: 4
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo4.json	Strategia: summarizer
+ChatEval Score: 4.5	Eval Score: 3
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo5.json	Strategia: summarizer
+ChatEval Score: 4	Eval Score: 4
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo6.json	Strategia: summarizer
+ChatEval Score: 3	Eval Score: 2
+Dataset usato: agentverse/tasks/llm_eval/data/faireval/preprocessed_data/dialogo7.json	Strategia: summarizer
+ChatEval Score: 5.5	Eval Score: 3

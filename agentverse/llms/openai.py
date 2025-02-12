@@ -26,7 +26,7 @@ except ImportError:
     logging.warning("openai package is not installed")
 else:
 
-    if openai.api_key is None:
+    if client.api_key is None:
         logging.warning(
             "OpenAI API key is not set. Please set the environment variable OPENAI_API_KEY"
         )
@@ -86,6 +86,7 @@ class OpenAICompletion(BaseCompletionModel):
 @llm_registry.register("gpt-3.5-turbo-0301")
 @llm_registry.register("gpt-3.5-turbo")
 @llm_registry.register("gpt-4")
+@llm_registry.register("gpt-4o-mini")
 class OpenAIChat(BaseChatModel):
     args: OpenAIChatArgs = Field(default_factory=OpenAIChatArgs)
 
@@ -113,7 +114,7 @@ class OpenAIChat(BaseChatModel):
         messages = self._construct_messages(prompt, chat_memory, final_prompt)
         try:
             if openai.api_type == "azure":
-                response = client.chat.completions.create(engine="gpt-4-6", messages=messages, **self.args.dict())
+                response = client.chat.completions.create(engine=self.args.model, messages=messages, **self.args.dict())
             else:
 
 
@@ -132,7 +133,7 @@ class OpenAIChat(BaseChatModel):
         messages = self._construct_messages(prompt, chat_memory, final_prompt)
         try:
             if openai.api_type == "azure":
-                response = await aclient.chat.completions.create(engine="gpt-4-6", messages=messages, **self.args.dict())
+                response = await aclient.chat.completions.create(engine=self.args.model, messages=messages, **self.args.dict())
             else:
 
                 response = await aclient.chat.completions.create(messages=messages, **self.args.dict())
