@@ -1,4 +1,4 @@
-# ChatEval: Quanto gli LLM possono avvicinarsi ai giudizi umani nella text evaluation?
+ChatEval: Quanto gli LLM possono avvicinarsi ai giudizi umani nella text evaluation?
 
 ## 📌 Modifiche e Contesto Accademico
 
